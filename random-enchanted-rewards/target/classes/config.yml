@@ -1,0 +1,35 @@
+
+# Weights for item types
+weights:
+  iron: 50
+  gold: 41
+  diamond: 8
+  netherite: 1
+
+# Rewards for skills enabled: true/false
+
+skills:
+  farming:
+    enabled: true
+  mining:
+    enabled: true
+  fishing:
+    enabled: true
+  excavation:
+    enabled: true
+  foraging:
+    enabled: true
+  archery:
+    enabled: true
+  fighting:
+    enabled: true
+  # Add more skills as needed
+
+# Maximum number of enchantments
+maxEnchantments: 3
+
+# Chance for each enchantment level to increase
+enchantmentLevelIncreaseChance: 0.3
+
+# Level interval for rewards
+levelInterval: 5

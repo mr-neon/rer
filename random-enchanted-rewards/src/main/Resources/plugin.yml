@@ -1,0 +1,11 @@
+name: RandomEnchantPlugin
+main: me.xneonx.random_enchanted_rewards.RandomEnchantPlugin
+version: 0.0.1
+api-version: 1.21
+description: A plugin that gives random enchantments every 10 levels.
+
+commands:
+  rer:
+    description: "Random Enchanted Plugin commands"
+    usage: "/<command> reload"
+    aliases: [rerreload]
